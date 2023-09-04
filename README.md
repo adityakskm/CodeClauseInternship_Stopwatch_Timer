@@ -1,5 +1,3 @@
-# CodeClauseInternship_Stopwatch_Timer
-
 The Chronometer Web App is a user-friendly and versatile digital clock application designed to provide users with multiple time-related functionalities. This web application allows users to seamlessly switch between a clock, stopwatch, and timer, catering to various timekeeping needs. Here's an overview of the project's features and functionality:
 
 Clock Functionality:
