@@ -30,4 +30,4 @@ Responsive Design:
 
 The application is responsive, adapting to both desktop and mobile devices, ensuring accessibility for users on the go.
 Overall, the Chronometer Web App offers a comprehensive solution for time management needs, whether users require a quick glance at the current time, precise stopwatch measurements, or countdown timer capabilities. Its user-friendly interface and versatility make it a valuable tool for a wide range of users, from professionals tracking time to individuals managing daily schedules.
-Credits: Open Source Coding  @opensourcecoding  
+Credits: Open Source Coding  @opensourcecoding  https://github.com/opensource-coding
